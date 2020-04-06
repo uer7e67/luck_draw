@@ -1,1 +1,2 @@
-# luck_draw
+# luck_draw 权重抽奖
+使用权重方式配置转盘抽奖
